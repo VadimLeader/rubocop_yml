@@ -101,7 +101,7 @@ Metrics/BlockLength:
   Max: 25
   ExcludedMethods: []
   Exclude:
-    - "spec/**/*"
+    - spec/**/*
     - config/environments/*
 
 Metrics/CyclomaticComplexity:
